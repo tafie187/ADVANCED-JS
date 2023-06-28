@@ -1,0 +1,17 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  
+}
+
+
+.calendar {
+  width: 50%;
+  height: 50%;
+  background: linear-gradient(45deg, #6ac1c5, #bda5ff);
+  margin: 5%;
+  justify-content: center;
+}
+.container-fluid {
+  align-items: center;
+}
